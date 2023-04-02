@@ -1,3 +1,6 @@
+# Función que calcula el seno hiperbolico de un ángulo
+# Autor: Felix M. Pormachi Jimenez
+
 def fact(n: int) -> int:
     '''Calcula el factorial de un número entero positivo utilizando recursión.
     
